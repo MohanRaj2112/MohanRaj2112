@@ -24,15 +24,15 @@
       <img src="https://img.shields.io/badge/GitHub-MohanRaj2112-0a0a0a?style=for-the-badge&logo=github&logoColor=dc2626&labelColor=0a0a0a" alt="GitHub" />
     </a>
     <!-- PLACEHOLDER: Replace with your actual LinkedIn profile URL -->
-    <a href="https://www.linkedin.com/in/" target="_blank">
+    <a href="www.linkedin.com/in/mohanraj2112" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=dc2626&labelColor=0a0a0a" alt="LinkedIn" />
     </a>
     <!-- PLACEHOLDER: Replace with your actual Email address -->
-    <a href="mailto:your-email@example.com">
+     <a href="mohanakash153@example.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=dc2626&labelColor=0a0a0a" alt="Email" />
     </a>
     <!-- PLACEHOLDER: Replace with your actual LeetCode profile URL -->
-    <a href="https://leetcode.com/" target="_blank">
+    <a href="https://leetcode.com/u/S_mohanraj4/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-Profile-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=dc2626&labelColor=0a0a0a" alt="LeetCode" />
     </a>
   </p>
@@ -227,12 +227,12 @@ I practice **Data Structures and Algorithms** regularly to build strong analytic
 ```
 
 * **Primary Language for DSA:** Java
-* **Platform:** [LeetCode](https://leetcode.com/) *(regular practice)*
+* **Platform:** [LeetCode](https://leetcode.com/u/S_mohanraj4/) *(regular practice)*
 * **Focus:** Problem decomposition, time/space complexity optimization, and clean implementation.
 
 <!-- Replace the URL below with your genuine LeetCode profile URL -->
 <p align="left">
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/S_mohanraj4//" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Practice_Journey-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=dc2626&labelColor=0a0a0a" alt="LeetCode Badge" />
   </a>
 </p>
@@ -400,17 +400,17 @@ I am always open to discussing new projects, learning opportunities, tech discus
   </a>
   &nbsp;
   <!-- Replace with your actual LinkedIn profile link -->
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="www.linkedin.com/in/mohanraj2112" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=dc2626&labelColor=0a0a0a" alt="LinkedIn Profile" />
   </a>
   &nbsp;
   <!-- Replace with your actual Email address -->
-  <a href="mailto:your-email@example.com">
+  <a href="mohanakash153@example.com">
     <img src="https://img.shields.io/badge/Email-Send_Message-0a0a0a?style=for-the-badge&logo=gmail&logoColor=dc2626&labelColor=0a0a0a" alt="Email Me" />
   </a>
   &nbsp;
   <!-- Replace with your actual LeetCode profile link -->
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/S_mohanraj4/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Practice-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=dc2626&labelColor=0a0a0a" alt="LeetCode" />
   </a>
 
