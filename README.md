@@ -55,7 +55,7 @@
 ## 📌 About Me
 
 ```yaml
-name: Mohan Raj
+name: Mohan Raj S
 role: Information Technology Student & Developer
 institution: Adhi College of Engineering and Technology
 batch: 2023 - 2027
