@@ -7,13 +7,13 @@
 <div align="center">
 
   <!-- 1. HEADER / BANNER -->
-  <img src="assets/banner.svg" alt="Mohan Raj - Header Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Mohan Raj - Header Banner" width="100%" style="max-width: 100%;" />
 
   <br/><br/>
 
   <!-- 2. TYPING INTRODUCTION -->
   <a href="https://github.com/MohanRaj2112">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=DC2626&background=0A0A0A00&center=true&vCenter=true&width=560&height=45&lines=Hi+there!+I'm+Mohan+Raj+👋;Information+Technology+Student+🎓;Full+Stack+Developer+in+Progress+💻;AI+%26+Machine+Learning+Learner+🤖;DSA+Problem+Solver+🧩;Building+Projects+%26+Learning+Every+Day+🚀" alt="Mohan Raj Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=DC2626&background=0A0A0A00&center=true&vCenter=true&width=500&height=45&lines=Mohan+Raj;Information+Technology+Student;Full+Stack+Developer;AI%2FML+Learner;DSA+Problem+Solver" alt="Mohan Raj Typing Animation" style="max-width: 100%;" />
   </a>
 
   <br/>
@@ -23,13 +23,15 @@
     <a href="https://github.com/MohanRaj2112" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-MohanRaj2112-0a0a0a?style=for-the-badge&logo=github&logoColor=dc2626&labelColor=0a0a0a" alt="GitHub" />
     </a>
-    <!-- PLACEHOLDERS: Add your actual profile URLs below when ready -->
+    <!-- PLACEHOLDER: Replace with your actual LinkedIn profile URL -->
     <a href="https://www.linkedin.com/in/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=dc2626&labelColor=0a0a0a" alt="LinkedIn" />
     </a>
+    <!-- PLACEHOLDER: Replace with your actual Email address -->
     <a href="mailto:your-email@example.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=dc2626&labelColor=0a0a0a" alt="Email" />
     </a>
+    <!-- PLACEHOLDER: Replace with your actual LeetCode profile URL -->
     <a href="https://leetcode.com/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-Profile-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=dc2626&labelColor=0a0a0a" alt="LeetCode" />
     </a>
@@ -40,7 +42,7 @@
     <img src="https://komarev.com/ghpvc/?username=MohanRaj2112&label=PROFILE+VIEWS&color=dc2626&style=flat-square" alt="Mohan Raj Profile Views" />
   </p>
 
-  <img src="assets/divider.svg" width="100%" alt="Divider" />
+  <img src="assets/divider.svg" width="100%" alt="Divider" style="max-width: 100%;" />
 
 </div>
 
@@ -58,9 +60,9 @@ role: Information Technology Student & Developer
 institution: Adhi College of Engineering and Technology
 batch: 2023 - 2027
 current_cgpa: 8.0
-location: India 🇮🇳
+location: India
 status: College Student • Internship Seeker • Fresher • Placement Preparation
-passions: [Full-Stack Web Development, AI & Machine Learning, Problem Solving, Data Structures]
+passions: [Full-Stack Web Development, AI/ML Learning, Problem Solving, Data Structures & Algorithms]
 ```
 
 I am an **Information Technology student** and beginner developer passionate about software engineering, full-stack web development, Artificial Intelligence, Machine Learning, and systematic problem solving.
@@ -318,17 +320,17 @@ I practice **Data Structures and Algorithms** regularly to build strong analytic
 
   <!-- Overall GitHub Stats -->
   <a href="https://github.com/MohanRaj2112">
-    <img src="https://github-readme-stats.vercel.app/api?username=MohanRaj2112&show_icons=true&theme=tokyonight&bg_color=0a0a0a&title_color=dc2626&text_color=f3f4f6&icon_color=dc2626&border_color=dc262633&count_private=true" alt="Mohan Raj's GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=MohanRaj2112&show_icons=true&bg_color=0a0a0a&title_color=dc2626&text_color=f3f4f6&icon_color=dc2626&border_color=dc262633&count_private=true" alt="Mohan Raj's GitHub Stats" style="max-width: 100%;" />
   </a>
   <br/><br/>
 
   <!-- Top Languages & Streak Stats -->
   <a href="https://github.com/MohanRaj2112">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanRaj2112&layout=compact&theme=tokyonight&bg_color=0a0a0a&title_color=dc2626&text_color=f3f4f6&border_color=dc262633" alt="Mohan Raj's Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohanRaj2112&layout=compact&bg_color=0a0a0a&title_color=dc2626&text_color=f3f4f6&border_color=dc262633" alt="Mohan Raj's Top Languages" style="max-width: 100%;" />
   </a>
   &nbsp;
   <a href="https://github.com/MohanRaj2112">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanRaj2112&theme=dark&background=0a0a0a&border=dc262633&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakLabel=dc2626" alt="Mohan Raj's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanRaj2112&theme=dark&background=0a0a0a&border=dc262633&stroke=dc2626&ring=dc2626&fire=dc2626&currStreakLabel=dc2626" alt="Mohan Raj's GitHub Streak" style="max-width: 100%;" />
   </a>
 
 </div>
@@ -336,7 +338,7 @@ I practice **Data Structures and Algorithms** regularly to build strong analytic
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" width="100%" alt="Divider" />
+  <img src="assets/divider.svg" width="100%" alt="Divider" style="max-width: 100%;" />
 </div>
 
 <br/>
@@ -347,17 +349,17 @@ I practice **Data Structures and Algorithms** regularly to build strong analytic
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohanRaj2112/MohanRaj2112/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohanRaj2112/MohanRaj2112/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/MohanRaj2112/MohanRaj2112/output/github-contribution-grid-snake-dark.svg" alt="Mohan Raj Contribution Snake Animation" width="100%" />
-  </picture>
+<p align="center">
+  <img
+    src="./assets/github-contribution-grid-snake.svg"
+    alt="Mohan Raj GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
-  <p align="center">
-    <sub><i>The contribution snake is generated automatically via GitHub Actions in <code>.github/workflows/snake.yml</code>.</i></sub>
-  </p>
-</div>
+<p align="center">
+  <i>My GitHub contribution activity</i>
+</p>
 
 <br/>
 
@@ -437,3 +439,4 @@ I am always open to discussing new projects, learning opportunities, tech discus
   </p>
 
 </div>
+
